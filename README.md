@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/635718168.svg)]([https://zenodo.org/doi/10.5281/zenodo.11671164)](https://zenodo.org/records/11175470)
+[![DOI](https://zenodo.org/badge/11175470.svg)]([https://zenodo.org/doi/10.5281/zenodo.11175470)]
 
 Welcome to the GitHub repository for the following publication: TGenetics, energetics and allostery during a billion years of hydrophobic protein core evolution (Escobedo et al., 2024)
 
