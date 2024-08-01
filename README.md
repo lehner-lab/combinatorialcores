@@ -6,7 +6,7 @@ Welcome to the GitHub repository for the following publication: Genetics, energe
 
 Here you'll find the code to reproduce the figures and results from the computational analyses described in the paper. All required files can be found in the related Zenodo entry.
 
-The code is organized in Jupyter Notebooks, one per figure in the paper. To execute the code, please paste the path to the Zenodo files folder in your computer.
+The code is organized in Jupyter Notebooks, one per figure in the paper. To execute the code, please paste your path to the Zenodo files folder in the first notebook box.
 
 Dependencies:
 - biopython 1.78
