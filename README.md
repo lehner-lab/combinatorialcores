@@ -2,7 +2,7 @@
 
 # Genetics, energetics and allostery during a billion years of hydrophobic protein core evolution
 
-Welcome to the GitHub repository for the following publication: Genetics, energetics and allostery during a billion years of hydrophobic protein core evolution, Escobedo, Voigt, Faure and Lehner 2024 https://www.biorxiv.org/content/10.1101/2024.05.11.593672v1
+Welcome to the GitHub repository for the following publication: Genetics, energetics and allostery during a billion years of hydrophobic protein core evolution by Escobedo, Voigt, Faure and Lehner 2024 https://www.biorxiv.org/content/10.1101/2024.05.11.593672v1
 
 Here you'll find the code to reproduce the figures and results from the computational analyses described in the paper. All required files can be found in the related Zenodo entry.
 
