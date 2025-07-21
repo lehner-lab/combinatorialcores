@@ -1,0 +1,24 @@
+name: BIO
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - pandas
+  - biopython
+  - logomaker
+  - scipy
+  - sklearn-pandas
+  - anaconda::requests
+  - ostrokach::dssp
+  - seaborn
+  - conda-forge::gzip
+  - openpyxl
+  - networkx
+  - conda-forge::protlearn
+  - conda-forge::mscorefonts
+  - plotly::plotly
+  - conda-forge::nbformat
+  - anaconda::statsmodels
+  - conda-forge::tqdm
+  - matplotlib
+  - conda-forge::pypdf2

@@ -1,0 +1,7 @@
+name: foldseek
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - foldseek
+  - anaconda::seaborn

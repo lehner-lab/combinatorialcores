@@ -1,0 +1,19 @@
+name: pymochi
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - pandas=1.4.2
+  - jupyter_client=7.1.1
+  - seaborn=0.11.2
+  - setuptools=60.5.0
+  - jupyter_server=1.13.3
+  - matplotlib=3.5.1
+  - jupyter_core=4.9.1
+  - jupyterlab=3.2.8
+  - pyreadr=0.4.4
+  - pytorch=1.10.1
+  - scipy=1.8.0
+  - scikit-learn=1.0.2
+  - numpy=1.21.2
+  - python=3.9.9

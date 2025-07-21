@@ -1,0 +1,8 @@
+name: dimsum
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - r-base=4.0
+  - fastqc=0.11
+  - r-dimsum
